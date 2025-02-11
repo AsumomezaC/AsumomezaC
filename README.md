@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on little web projects like a front end developer
 - 📫 How to reach me: cuevassolisadrian@gmail.com
 - 😄 Pronouns: Manchitas, Su momeza, Jamon, Guero
-- ⚡ Fun fact: iha ve a love/hate with programming, and you?
+- ⚡ Fun fact: i have a love/hate with programming, and you?
 
 <!---
 AsumomezaC/AsumomezaC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
